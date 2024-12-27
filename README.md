@@ -50,7 +50,7 @@ cd Interstellar
 #### Ad-Free Deployment
 
 ```bash
-git clone --branch Ad-Free https://github.com/UseInterstellar/Interstellar
+git clone --branch Ad-Free https://github.com/MHH714/Schoology.dpsk12.org
 cd Interstellar
 ```
 
@@ -86,7 +86,7 @@ npm run start
 ### Updating
 
 ```bash
-cd Interstellar
+cd Schoology.dpsk12.org
 git pull --force --allow-unrelated-histories # This may overwrite your local changes
 ```
 
